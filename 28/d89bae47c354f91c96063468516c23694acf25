@@ -1,0 +1,22 @@
+CODE_OF_CONDUCT.md
+  s_4512042196803f::t_c41ad7e1cfad63 73
+  s_4512042196803f::t_310ee768dac6f6 80-81
+.gitignore
+  s_4512042196803f::t_db449d2652a8cb 11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "28d89bae47c354f91c96063468516c23694acf25",
+  "prompts": {},
+  "sessions": {
+    "s_4512042196803f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a17ccc55-a578-4894-8265-9ef68d7b913a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "jkotze <jacques.kotze@gmail.com>"
+    }
+  }
+}
