@@ -1,0 +1,21 @@
+CHANGELOG.md
+  s_36c4b15bec8fc2::t_4de387c2de3f92 1-30
+README.md
+  s_36c4b15bec8fc2::t_97a7e89ec019de 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "664bbc0f0a409357863a1f18fd263522cc30ce10",
+  "prompts": {},
+  "sessions": {
+    "s_36c4b15bec8fc2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52ec7ac3-00e1-4637-8ce0-d3322a04daef",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "jkotze <jacques.kotze@gmail.com>"
+    }
+  }
+}
