@@ -1,0 +1,19 @@
+SECURITY.md
+  s_4512042196803f::t_1601500045693f 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "95b2e8bd01cb05b877d16c30e8b01976c4239dee",
+  "prompts": {},
+  "sessions": {
+    "s_4512042196803f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a17ccc55-a578-4894-8265-9ef68d7b913a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "jkotze <jacques.kotze@gmail.com>"
+    }
+  }
+}
