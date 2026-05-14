@@ -31,6 +31,21 @@ Substantive changes that affect protocol semantics require an RFC-style issue wi
 6. Address review feedback.
 7. Once approved, an editor will merge.
 
+## Commit and changelog discipline
+
+This is a normative protocol document under active review. The commit history is part of the editorial record: a regulator, implementer, or future editor must be able to identify when and why each substantive change to the specification was made. Apply the following discipline from the first commit, not from v1.0.
+
+**One commit, one logical change, one (or zero) changelog bullets.** A logical change may span multiple files — a normative change to the spec text typically also updates Appendix D and `CHANGELOG.md`, all in one commit. Do not bundle two unrelated edits into one commit even when made in the same sitting.
+
+In practice:
+
+- If a commit needs more than one CHANGELOG bullet, split it into two commits.
+- If a CHANGELOG bullet describes work that landed across two commits, re-stage the work as a single commit.
+- Editorial cleanups with no normative effect (typo passes, link fixes, formatting) MAY be bundled by session into a single commit, with no CHANGELOG entry.
+- Pure clarifications that do not change normative meaning still warrant a CHANGELOG bullet (under "Changed") and a corresponding Appendix D entry, even when they do not bump the version. The version-bump decision is separate from the changelog-entry decision.
+
+**Commit message style.** Follow the prefix convention already in the repository history: `spec:` for normative or in-document changes, `docs:` for repository-level documentation (README, GOVERNANCE, CONTRIBUTING), `chore:` for tooling and process files, `refactor:` for restructuring without semantic effect. Use the imperative mood, lowercase after the prefix, and keep the subject line under ~70 characters. Use the body to explain *why* the change was made and to record the version-bump judgment when relevant.
+
 ## Developer Certificate of Origin
 
 Contributions are made under the [DCO](https://developercertificate.org/). By signing off on your commits, you assert that you have the right to contribute the work under the project's license.
