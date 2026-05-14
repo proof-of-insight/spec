@@ -1,0 +1,21 @@
+CONTRIBUTING.md
+  s_4512042196803f::t_e4b30e86da117f 62
+GOVERNANCE.md
+  s_4512042196803f::t_35d5650f5a0b1c 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "b8231de0709ad5e11234ba35eef2ba5fc236813b",
+  "prompts": {},
+  "sessions": {
+    "s_4512042196803f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a17ccc55-a578-4894-8265-9ef68d7b913a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "jkotze <jacques.kotze@gmail.com>"
+    }
+  }
+}
