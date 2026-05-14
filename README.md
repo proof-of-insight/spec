@@ -2,14 +2,14 @@
 
 **Status:** Working Draft v0.6.2 — circulated for review by domain experts. Not a published standard. No production deployments exist at any version.
 
-**Canonical URL:** <https://proofofinsight.org/spec/v0.6.2/>
+**Canonical URL:** <https://proofofinsight.org/spec/v0.6.2/> *(DNS configuration in progress; until that hostname serves the rendered specification, the working draft in this repository is authoritative)*
 
 Proof of Insight (PoI) is an open specification for verifiable evidence in agentic AI analyses operating in regulated contexts. It defines a content-addressed, signed directed acyclic graph of typed derivation steps and a single mechanical algorithm that verifies analyses produced by agentic AI systems.
 
 ## Read the specification
 
 - Working draft (markdown): [versions/v0.6.2.md](versions/v0.6.2.md)
-- Rendered version: <https://proofofinsight.org/spec/v0.6.2/>
+- Rendered version: <https://proofofinsight.org/spec/v0.6.2/> *(pending DNS configuration)*
 - JSON Schema for the Insight Step: [schema/v0.6.2/step.json](schema/v0.6.2/step.json)
 - Changes from v0.6.1: [CHANGELOG.md](CHANGELOG.md)
 
