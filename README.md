@@ -19,7 +19,7 @@ PoI establishes that an analysis was produced as recorded. It is silent on wheth
 
 ## Contributing
 
-Open issues for spec comments, ambiguities, conformance questions, and profile proposals. See [CONTRIBUTING.md](CONTRIBUTING.md) for the process and [GOVERNANCE.md](GOVERNANCE.md) for editorial structure.
+Open issues for spec comments, ambiguities, conformance questions, and profile proposals. See [CONTRIBUTING.md](CONTRIBUTING.md) for the process and [GOVERNANCE.md](GOVERNANCE.md) for editorial structure. Participation in this project is governed by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Security-relevant defects should be reported per [SECURITY.md](SECURITY.md).
 
 ## License
 
