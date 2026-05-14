@@ -1,0 +1,24 @@
+CHANGELOG.md
+  s_4512042196803f::t_48daf03a144e48 22-25
+schema/v0.6.2/step.json
+  s_4512042196803f::t_4fe156806e4956 3
+versions/v0.6.2.md
+  s_4512042196803f::t_ef9b4b67d58591 896
+  s_4512042196803f::t_65cdc2c8dd3df6 1238-1241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "f3b508a63275f971b5d375776f45d7f4954f9653",
+  "prompts": {},
+  "sessions": {
+    "s_4512042196803f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a17ccc55-a578-4894-8265-9ef68d7b913a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "jkotze <jacques.kotze@gmail.com>"
+    }
+  }
+}
