@@ -1,0 +1,19 @@
+CHANGELOG.md
+  s_4512042196803f::t_20fc11a213677c 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "07b2db07750d0d0050b06a0c3b76d264b046fccf",
+  "prompts": {},
+  "sessions": {
+    "s_4512042196803f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a17ccc55-a578-4894-8265-9ef68d7b913a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "jkotze <jacques.kotze@gmail.com>"
+    }
+  }
+}
