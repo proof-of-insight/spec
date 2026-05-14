@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Editorial contact (non-issue inquiries)
+    url: mailto:editors@proofofinsight.org
+    about: For editorial, governance, trademark, or licensing questions that are not spec comments, ambiguities, conformance questions, or profile proposals.
+  - name: Security disclosure
+    url: mailto:editors@proofofinsight.org
+    about: For security-relevant defects in the specification or schemas. See SECURITY.md for scope and procedure. Do not file public issues for unpatched vulnerabilities.
