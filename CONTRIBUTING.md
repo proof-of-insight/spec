@@ -33,7 +33,7 @@ Substantive changes that affect protocol semantics require an RFC-style issue wi
 
 ## Developer Certificate of Origin
 
-Contributions are made under the DCO (https://developercertificate.org/). By signing off on your commits, you assert that you have the right to contribute the work under the project's license.
+Contributions are made under the [DCO](https://developercertificate.org/). By signing off on your commits, you assert that you have the right to contribute the work under the project's license.
 
 ## Code of Conduct
 
@@ -41,7 +41,7 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 
 ## Communication
 
-- Issues and discussion: https://github.com/proof-of-insight/spec/issues
-- Editorial contact: editors@proofofinsight.org
+- Issues and discussion: <https://github.com/proof-of-insight/spec/issues>
+- Editorial contact: <editors@proofofinsight.org>
 
 For sensitive matters (security disclosures, policy concerns, conduct issues), contact the editor directly rather than via the public tracker.
