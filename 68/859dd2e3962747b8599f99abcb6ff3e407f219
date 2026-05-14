@@ -1,0 +1,27 @@
+.github/PULL_REQUEST_TEMPLATE.md
+  s_36c4b15bec8fc2::t_fe15efdb779fc7 1-21
+.github/ISSUE_TEMPLATE/ambiguity.md
+  s_36c4b15bec8fc2::t_4ec5ff6de3df22 1-21
+.github/ISSUE_TEMPLATE/profile-proposal.md
+  s_36c4b15bec8fc2::t_04bc9e993b0689 1-27
+.github/ISSUE_TEMPLATE/conformance-question.md
+  s_36c4b15bec8fc2::t_11d00e7f6f781e 1-19
+.github/ISSUE_TEMPLATE/spec-comment.md
+  s_36c4b15bec8fc2::t_32e4d93791a72f 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "68859dd2e3962747b8599f99abcb6ff3e407f219",
+  "prompts": {},
+  "sessions": {
+    "s_36c4b15bec8fc2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52ec7ac3-00e1-4637-8ce0-d3322a04daef",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "jkotze <jacques.kotze@gmail.com>"
+    }
+  }
+}
