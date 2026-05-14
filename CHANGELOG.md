@@ -2,7 +2,7 @@
 
 All notable changes to the Proof of Insight specification are documented here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); the protocol follows semantic-style versioning at the protocol level (see [GOVERNANCE.md](GOVERNANCE.md)).
 
-## [0.6.2] — 2026-XX-XX (working draft)
+## [0.6.2] — 2026-05-14 (working draft)
 
 Document and protocol version are intentionally the same. v0.6.2 supersedes v0.6.1 with backward-compatible additions and clarifications. No producer compliant with v0.6.1 is rendered non-compliant by v0.6.2.
 
