@@ -17,6 +17,7 @@ Document and protocol version are intentionally the same. v0.6.2 supersedes v0.6
 ### Changed
 
 - **Patent covenant interim language.** §0.3 now states that, until a conformance test suite is published for a given version, the patent non-assertion covenant applies to good-faith implementations of the normative requirements of §§1–5 at that version.
+- **Positioning clarification (§1.2).** §1.2 now opens with an explicit statement that PoI is a verification protocol, not an analytical platform or workflow tool, and that the protocol does not depend on or specify the workflow that produced an analysis. Clarification only; no new normative requirement.
 
 ### Deferred to v0.7
 
