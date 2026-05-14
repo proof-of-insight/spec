@@ -8,6 +8,9 @@ Thumbs.db
 *.swp
 *~
 
+# Local AI-assistant state (Claude Code per-developer settings, transcripts)
+.claude/
+
 # Build artifacts (none expected in this repo, but defensive)
 *.aux
 *.log
