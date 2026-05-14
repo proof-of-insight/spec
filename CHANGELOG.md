@@ -19,6 +19,10 @@ Document and protocol version are intentionally the same. v0.6.2 supersedes v0.6
 - **Patent covenant interim language.** §0.3 now states that, until a conformance test suite is published for a given version, the patent non-assertion covenant applies to good-faith implementations of the normative requirements of §§1–5 at that version.
 - **Positioning clarification (§1.2).** §1.2 now opens with an explicit statement that PoI is a verification protocol, not an analytical platform or workflow tool, and that the protocol does not depend on or specify the workflow that produced an analysis. Clarification only; no new normative requirement.
 
+### Fixed
+
+- **Schema `$id` path typo.** The JSON Schema's `$id` was `https://proofofinsight.org/schemas/v0.6.2/step.json` (plural `schemas`); corrected to `https://proofofinsight.org/schema/v0.6.2/step.json` (singular `schema`) to match the path the canonical site already serves and the repository's own `schema/` directory. Fixed in both the standalone schema file and the Appendix A inline copy.
+
 ### Deferred to v0.7
 
 - Structured digest object (`{alg, value}`) for hash agility.

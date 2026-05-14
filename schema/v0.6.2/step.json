@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://proofofinsight.org/schemas/v0.6.2/step.json",
+  "$id": "https://proofofinsight.org/schema/v0.6.2/step.json",
   "title": "PoI Insight Step",
   "description": "Illustrative JSON Schema for a Proof of Insight (PoI) Insight Step, v0.6.2. The schema is NOT normative; the normative definition is the prose of §2 of the specification. Schema validation is the weakest of five validity gates (see Appendix A of the spec).",
   "type": "object",
