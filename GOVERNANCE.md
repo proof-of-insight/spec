@@ -45,3 +45,4 @@ The patent non-assertion covenant is stated in §0.3 of the specification.
 
 Editorial: <editors@proofofinsight.org>
 Public discussion: <https://github.com/proof-of-insight/spec/issues>
+Security disclosures: see [SECURITY.md](SECURITY.md).

@@ -59,4 +59,4 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 - Issues and discussion: <https://github.com/proof-of-insight/spec/issues>
 - Editorial contact: <editors@proofofinsight.org>
 
-For sensitive matters (security disclosures, policy concerns, conduct issues), contact the editor directly rather than via the public tracker.
+For sensitive matters, contact the editor directly rather than via the public tracker: see [SECURITY.md](SECURITY.md) for security disclosures and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for conduct concerns. Other policy matters can be raised via the editorial address above.
