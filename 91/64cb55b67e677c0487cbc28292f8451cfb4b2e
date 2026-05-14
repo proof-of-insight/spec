@@ -1,0 +1,22 @@
+versions/v0.6.2.md
+  s_4512042196803f::t_b3cd497de414aa 874,1190
+  s_4512042196803f::t_8cf8769581c884 1193
+  s_4512042196803f::t_3ee1577369eb6a 891
+  s_4512042196803f::t_a0e531c901678d 98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "9164cb55b67e677c0487cbc28292f8451cfb4b2e",
+  "prompts": {},
+  "sessions": {
+    "s_4512042196803f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a17ccc55-a578-4894-8265-9ef68d7b913a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "jkotze <jacques.kotze@gmail.com>"
+    }
+  }
+}
